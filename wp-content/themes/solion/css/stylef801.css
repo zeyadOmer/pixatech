@@ -6823,7 +6823,6 @@ footer .f-items {
 }
 
 footer .f-items .item {
-  margin-bottom: 50px;
 }
 
 footer img {
@@ -6926,7 +6925,6 @@ footer .item .social ul li a {
 }
 
 footer .item .social {
-  margin-top: 30px;
 }
 
 footer .f-item.link li {
@@ -7050,7 +7048,6 @@ footer.bg-dark .f-item .download a i {
 /* Footer Bottom */
 
 footer .footer-bottom {
-  padding: 30px 0;
   background: #e9e9e9;
 }
 
