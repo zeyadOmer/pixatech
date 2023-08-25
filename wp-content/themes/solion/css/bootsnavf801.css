@@ -2359,7 +2359,7 @@ nav.navbar.bootsnav {
   }
 
   .navbar-brand > img {
-    height: 40px !important;
+    /* height: 40px !important; */
   }
 
   nav.navbar.bootsnav.navbar-transparent.pad-top {
