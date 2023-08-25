@@ -258,7 +258,8 @@ input {
 
 .container-full {
   padding: 0 15px;
-  margin: auto;
+  /* margin: auto; */
+  margin-inline: 10px;
   max-width: 1400px;
 }
 
@@ -315,7 +316,7 @@ input {
 @media (min-width:1200px) {
   .container-full {
     max-width: 1400px;
-    width: 90%;
+    width: 100%;
   }
 }
 
@@ -486,6 +487,11 @@ input {
 .default-padding {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+footer .default-padding {
+  padding-top: 40px;
+  padding-bottom: 0;
 }
 
 .default-padding-top {
@@ -6800,7 +6806,7 @@ footer .fixed-shape img {
 }
 
 footer .f-items {
-  padding-bottom: 70px;
+  padding-bottom: 0px;
 }
 
 footer .f-items .item {

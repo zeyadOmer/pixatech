@@ -3061,7 +3061,6 @@ ul.cart-list > li.total > .btn {
 
   nav.navbar.bootsnav.navbar-default.navbar-fixed.navbar-transparent.inc-topbar,
   nav.navbar.bootsnav.navbar-default.navbar-fixed.no-background.inc-topbar {
-    margin-top: 60px;
     transition: all 0.35s ease-in-out 0s;
   }
 
