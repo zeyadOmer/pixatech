@@ -779,7 +779,9 @@ footer .default-padding {
   content: "";
   height: 100%;
   width: 100%;
-  background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%);
+  /* background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
   transition: all 0.35s ease-in-out;
   z-index: -1;
 }
@@ -1820,7 +1822,9 @@ nav.navbar.off-canvas-nav ul.main {
 }
 
 .breadcrumb-area.less-background {
-    background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%);
+    /* background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -3689,7 +3693,9 @@ body,
 .about-area .info .progress-box .progress .progress-bar {
   position: relative;
   overflow: inherit;
-  background: linear-gradient(90deg, rgba(9,70,139,1) 0%, rgba(30,132,246,1) 100%);
+  /* background: linear-gradient(90deg, rgba(9,70,139,1) 0%, rgba(30,132,246,1) 100%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
 }
 
 .about-area .info .progress-box .progress .progress-bar span {
@@ -4062,18 +4068,23 @@ body,
   content: "";
   height: 100%;
   width: 100%;
-  background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%);
+  background: linear-gradient(90deg, rgba(253,81,29,1) 23%, rgba(252,176,69,1) 100%);
   z-index: -1;
   border-radius: 30px;
   transition: all 0.25s ease-in-out;
 }
 
 .technology-area a:hover h5 {
+  background: linear-gradient(90deg, rgba(253,81,29,1) 23%, rgba(252,176,69,1) 100%);
+
   color: #ffffff;
   border: 1px solid transparent;
 }
 
 .technology-area a:hover h5::after {
+  background: linear-gradient(90deg, rgba(253,81,29,1) 23%, rgba(252,176,69,1) 100%)
+
+
   left: 0;
 }
 
@@ -4198,7 +4209,9 @@ body,
   content: "";
   height: 3px;
   width: 0;
-  background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%);
+  /* background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
   transition: all 0.35s ease-in-out;
 }
 
@@ -6888,7 +6901,9 @@ footer.bg-dark .footer-top .footer-top-content ul li a:hover {
 }
 
 .footer-top .footer-top-content form button {
-  background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%);
+  /* background: linear-gradient(90deg, rgba(0,16,45,1) 0%, rgba(0,89,252,1) 56%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
   position: absolute;
   right: 5px;
   top: 5px;
@@ -8728,7 +8743,9 @@ footer .f-item.about {
     display: inline-block;
     font-size: 50px;
     margin-bottom: 30px;
-        background: linear-gradient(90deg, rgba(0, 16, 45, 1) 0%, rgba(0, 89, 252, 1) 56%);
+        /* background: linear-gradient(90deg, rgba(0, 16, 45, 1) 0%, rgba(0, 89, 252, 1) 56%); */
+  background: linear-gradient(90deg, rgb(241, 241, 13) 0%, rgb(181, 140, 5) 56%);
+
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
