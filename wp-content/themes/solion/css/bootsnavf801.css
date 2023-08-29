@@ -1639,7 +1639,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {
-    /* color: #bc9355; */
+    color: #bc9355;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li.active > a {
