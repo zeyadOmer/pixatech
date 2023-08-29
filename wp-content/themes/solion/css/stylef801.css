@@ -709,7 +709,7 @@ footer .default-padding {
 }
 
 .bg-dark {
-  background: #f14d2a !important;
+  background: #4a7aa7 !important;
 }
 
 .bg-dark-hard {
@@ -7056,7 +7056,7 @@ footer .footer-bottom {
 }
 
 footer.bg-dark .footer-bottom {
-    background: #f14d2a;
+    background: #4a7aa7;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
