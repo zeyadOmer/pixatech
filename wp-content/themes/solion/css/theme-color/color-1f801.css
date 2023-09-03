@@ -526,7 +526,7 @@ input[type="submit"],
 /* Gradients */
 
 .bg-gradient {
-  background: linear-gradient(90deg, rgba(253,81,29,1) 23%, rgba(252,176,69,1) 100%);
+  background: linear-gradient(90deg, rgb(43 56 69) 23%, var(--wc-subtext) 100%);
 }
 
 
