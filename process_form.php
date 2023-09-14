@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     // Send the email
     if (mail($to, $subject, $message, $headers)) {
-        echo "Thank you for your submission. We will contact you shortly.";
+        echo "<script type='text/javascript'>alert('thank you for contacing pixatech');</script>";
     } else {
         echo "Oops! gg Something went wrong and we couldn't send your message.";
     }
