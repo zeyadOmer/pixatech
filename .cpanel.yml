@@ -1,0 +1,11 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pixatech/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp process_form $DEPLOYPATH
+    - /bin/cp -R wp-content $DEPLOYPATH
+    - /bin/cp -R wp-includes $DEPLOYPATH
+    - /bin/cp -R wp-json $DEPLOYPATH
+
+
